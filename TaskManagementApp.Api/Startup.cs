@@ -51,7 +51,6 @@ namespace TaskManagementApp.Api
                 app.UseDeveloperExceptionPage();
                 //app.UseSwagger();
                 //app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "TaskManagementApp.Api v1"));
-                //sdflkjsf
             }
 
             app.UseOpenApi();
